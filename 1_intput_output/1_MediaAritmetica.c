@@ -1,3 +1,5 @@
+/*Escreva um program que leia três numeros interios e calcule a sua média aritmetica*/
+
 #include<stdio.h>
 #include<conio.h>
 
