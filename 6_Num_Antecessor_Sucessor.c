@@ -1,1 +1,0 @@
-/*Escreva um programa que leia um numero inteiro e informe o seu antecessor e o seu sucessor*/
