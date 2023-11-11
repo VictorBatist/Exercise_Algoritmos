@@ -1,3 +1,6 @@
+/*Escreva um programa que leia o valor de uma temperatra em Celsius e calcule o seu valor correspondente em Fahrenhneit
+e em kelvin*/
+
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
