@@ -1,3 +1,5 @@
+/*Escreva um programa que leia o valor do raio de uma circunferência e calcule sua área e seu comprimento*/
+
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
